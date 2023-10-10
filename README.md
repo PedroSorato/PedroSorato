@@ -1,6 +1,6 @@
 # Olá! Meu nome é Pedro Sorato! 👋
 
-### Sou brasileiro e estudante de programação, no momento estou estudando Python, HTML5 e CSS3. No meu tempo livre gosto de jogar, ir à praia, praticar esportes, ver filmes e viajar. Estou finalizando o ensino superior e em busca de uma vaga dev.
+### Sou brasileiro e estudante de programação, no momento estou estudando JS, HTML5 e CSS3. No meu tempo livre gosto de jogar, ir à praia, praticar esportes, ver filmes e viajar. Estou finalizando o ensino superior e em busca de uma vaga dev.
 
 ## ⭐ Algumas Tecnologias Dev que estou aprendendo ⭐
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
