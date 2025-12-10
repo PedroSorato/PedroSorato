@@ -2,7 +2,7 @@
 
 **Estudante de Banco de Dados | DBA em formação | Apaixonado por SQL Server**
 
-Atualmente mergulhando de cabeça no universo dos dados: aprendendo, testando, quebrando coisas (e arrumando logo depois 😂).  
+Atualmente mergulhando de cabeça no universo dos dados: aprendendo, testando.  
 Gosto de entender como consultas funcionam, como melhorar performance, deixar tudo mais seguro e criar ambientes organizados e funcionais.
 
 ---
@@ -30,7 +30,6 @@ Gosto de entender como consultas funcionam, como melhorar performance, deixar tu
 - ● Curto academia, viagens e tecnologia  
 - ● Aprendo MUITO melhor fazendo do que lendo  
 - ● Tô sempre criando projetinhos SQL e subindo aqui no GitHub  
-- ● Se tem dado, eu tô interessado 😄
 
 ---
 
